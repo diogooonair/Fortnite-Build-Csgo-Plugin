@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/fortnite/brick_wall"
+	$surfaceprop "solidmetal"
+}
