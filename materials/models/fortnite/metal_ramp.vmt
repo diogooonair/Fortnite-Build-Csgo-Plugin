@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/fortnite/metal_ramp"
-	$surfaceprop "solidmetal"
-}
