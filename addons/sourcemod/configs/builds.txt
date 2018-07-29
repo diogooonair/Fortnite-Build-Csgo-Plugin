@@ -1,0 +1,6 @@
+"Props"
+{
+	"wall"					"models/fortnite_wall.mdl"
+	"ramp"				"models/fortnite_ramp.mdl"
+	"floor"					"models/fortnite_floor.mdl"
+}
