@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/fortnite/fortnite_wood"
+	$surfaceprop "solidmetal"
+}
